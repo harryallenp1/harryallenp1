@@ -2,4 +2,4 @@
 
 I'm an Undergrad pursuing a CSE specializing in cloud computing. Aspiring full-stack web developer 😄
 
-![Instagram](www.google.com){target="_blank"}
+![Instagram](https://fast.com/){ :target="_blank"}
