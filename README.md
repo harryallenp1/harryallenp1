@@ -1,5 +1,5 @@
 
-<p style>### Hi there 👋
+# Hi there 👋
 
 I'm an Undergrad pursuing a CSE specializing in cloud computing. Aspiring full-stack web developer 😄
 
