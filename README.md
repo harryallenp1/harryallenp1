@@ -3,9 +3,8 @@
 🎓 I'm a third-year Computer Science student at Sheridan College, specializing in Cloud Computing.  
 💻 I'm passionate about building scalable systems, cloud automation, and assistive technologies that improve lives.  
 🚀 Currently working on:  
-- 🧠 **Project Memora** – An AI-powered assistive app for memory impairments   
-- 🧮 Python-based math services using Pyro4, Docker, and sockets  
-
+- 🧠 **Project Memora** – An AI-powered assistive app for memory impairments
+- 
 ---
 
 ### 🛠️ Tech Stack & Tools
