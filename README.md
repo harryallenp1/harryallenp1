@@ -12,8 +12,7 @@
 
 - **Languages**: Python, Java, SQL, JavaScript  
 - **Cloud Platforms**: AWS, Azure  
-- **Tools & Frameworks**: Docker, Firebase, Flask, Celery, Pyro4, Socket, Git  
-- **OS Knowledge**: FreeRTOS, Embedded Linux, Zephyr OS  
+- **Tools & Frameworks**: Docker, Firebase, Flask, Celery, Pyro4, Socket, Git   
 
 ---
 
