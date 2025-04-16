@@ -29,7 +29,7 @@
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harry-allen-profile)  
 - 💌 harryallen.net@gmail.com  
-- 📱 +1 (905) 782-6838  
+- 📱 +1 (905) 782-6838 
 
 Thanks for stopping by! Always open to collaborations, cool ideas, or tech chats ☕
 
