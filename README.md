@@ -48,7 +48,9 @@
 ---
 
 ### ⏱️ Coding Activity (WakaTime)
-[![WakaTime Stats](https://wakatime.com/share/@harryallen/0728248f-69e8-4e8e-9896-6415c7617e45.svg)](https://wakatime.com/@harryallen)
+### 📈 Coding Activity by WakaTime
+
+[![WakaTime Chart](https://wakatime.com/share/@harryallen/be92317b-f2cb-4608-b077-bbd47f24c5b5.png)](https://wakatime.com/)
 
 ---
 
