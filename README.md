@@ -1,35 +1,61 @@
 ### 👋 Hey there! I'm Harry Allen
 
-🎓 I'm a third-year Computer Science student at Sheridan College, specializing in Cloud Computing.  
-💻 I'm passionate about building scalable systems, cloud automation, and assistive technologies that improve lives.  
+🎓 I'm a third-year Computer Science student at Sheridan College, specializing in **Cloud Computing**.  
+💻 I’m passionate about building **scalable systems**, **cloud automation**, and **assistive technologies** that improve lives.  
 🚀 Currently working on:  
-- 🧠 **Project Memora** – An AI-powered assistive app for memory impairments
-
+- 🧠 **Project Memora** – An AI-powered assistive app for individuals with memory impairments  
+- 🧾 **Budget Tracker** – An AI-integrated CLI and web-based tool to categorize and track spending  
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
-- **Languages**: Python, Java, SQL, JavaScript  
-- **Cloud Platforms**: AWS, Azure  
-- **Tools & Frameworks**: Docker, Firebase, Flask, Celery, Pyro4, Socket, Git   
+**Languages:**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Cloud Platforms & DevOps:**  
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+**Tools & Frameworks:**  
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?style=flat-square&logo=celery&logoColor=white)
+![Pyro4](https://img.shields.io/badge/-Pyro4-3776AB?style=flat-square&logo=python&logoColor=white)
+![Socket](https://img.shields.io/badge/-Socket-FF6F00?style=flat-square)
 
 ---
 
-### 🌱 What I'm Learning
+### 🌱 Currently Exploring
 
-- Distributed systems and orchestration  
+- Distributed systems & orchestration  
 - CI/CD pipelines and infrastructure as code  
 - OpenCL & parallel processing for edge systems  
+- Cross-cloud resource optimization & cost tracking
 
 ---
 
-### 📫 Let’s connect
+### 📈 GitHub Stats
+
+![Harry's GitHub Stats](https://github-readme-stats.vercel.app/api?username=harryallenp1&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=harryallenp1&layout=compact&hide=jupyter%20notebook)
+
+---
+
+### ⏱️ Coding Activity (WakaTime)
+[![WakaTime Stats](https://wakatime.com/share/@harryallen/0728248f-69e8-4e8e-9896-6415c7617e45.svg)](https://wakatime.com/@harryallen)
+
+---
+
+### 📫 Let’s Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/harry-allen-profile)  
 - 💌 harryallen.net@gmail.com  
-- 📱 +1 (905) 782-6838 
+- 📱 +1 (905) 782-6838  
 
 Thanks for stopping by! Always open to collaborations, cool ideas, or tech chats ☕
-
-<figure><embed src="https://wakatime.com/share/@harryallen/0728248f-69e8-4e8e-9896-6415c7617e45.svg"></embed></figure>
