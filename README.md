@@ -48,8 +48,6 @@
 ---
 
 ### ⏱️ Coding Activity (WakaTime)
-### 📈 Coding Activity by WakaTime
-
 [![WakaTime Chart](https://wakatime.com/share/@harryallen/be92317b-f2cb-4608-b077-bbd47f24c5b5.png)](https://wakatime.com/)
 
 ---
