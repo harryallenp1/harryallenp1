@@ -54,7 +54,7 @@
 
 ### 📫 Let’s Connect
 
-- 🔗 [LinkedIn](www.linkedin.com/in/harryallenp)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/harry-allen-b51798293/)  
 - 💌 harryallen.net@gmail.com  
 - 📱 +1 (905) 782-6838  
 
