@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=900&color=48D1CC&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Harry+Allen+👋;Cloud+Automation+%26+AI+Enthusiast;QA+Tester+%40+Ontario+Public+Service;Honours+BCS+(Cloud+Computing)+Student;Automating+Everything+One+Script+at+a+Time)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=900&color=48D1CC&center=true&vCenter=true&width=750&lines=Hey+there!+I'm+Harry+Allen+👋;Cloud+Automation+%26+AI+Enthusiast;SWE+%40+Ontario+Government;Honours+BCS+(Cloud+Computing)+Student;Automating+Everything+One+Script+at+a+Time)
 
 ---
 
