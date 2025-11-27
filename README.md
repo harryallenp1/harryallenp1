@@ -126,7 +126,7 @@ Python utilities automating repetitive QA tasks and data validation using OpenAI
 <a href="mailto:harryallen.net@gmail.com">
   <img src="https://img.shields.io/badge/Email-Chat-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-<a href="https://harryallen.dev">
+<a href="https://portfolio-website-omega-smoky-68.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 <a href="https://github.com/harryallenp1">
