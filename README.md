@@ -4,7 +4,7 @@
 
 ---
 
-<a href="https://harryallen.dev](https://portfolio-website-omega-smoky-68.vercel.app/">
+<a href="https://portfolio-website-omega-smoky-68.vercel.app/">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
 </a>
 <a href="https://www.linkedin.com/in/harryallenp/">
