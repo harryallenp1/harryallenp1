@@ -5,7 +5,7 @@
 ---
 
 <a href="https://portfolio-website-omega-smoky-68.vercel.app/">
-  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Site-0078D7?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfoli"/>
 </a>
 <a href="https://www.linkedin.com/in/harryallenp/">
   <img src="https://img.shields.io/badge/💼_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
